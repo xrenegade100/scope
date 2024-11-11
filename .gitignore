@@ -3,3 +3,5 @@ venv/
 *.copy.db
 *.copy.csv
 *.rar
+*.png
+.env
